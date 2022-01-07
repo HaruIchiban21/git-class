@@ -6,6 +6,7 @@ GIT ajuda muito no versionamento do projeto
 
 AHAHAHAHAHAHAH TROLLEI
 
+<<<<<<< Updated upstream
 Continuando o trabalho
 
 
@@ -13,3 +14,9 @@ MUDANÇAS
 
 
 AAAAAA34343
+=======
+Continuando o trabalho 
+
+TESTE ? 
+>>>>>>> Stashed changes
+ uiuiu9808oi
